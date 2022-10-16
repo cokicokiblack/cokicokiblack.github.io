@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cokicokiblack.github.io/sitemap.xml
